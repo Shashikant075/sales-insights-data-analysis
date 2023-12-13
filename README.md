@@ -1,5 +1,10 @@
 ## Sales Insights Data Analysis 
 
+## Sales Insights 
+![Screenshot 2023-12-13 134743](https://github.com/Shashikanttt/sales-insights-data-analysis/assets/101270238/544c7859-5eeb-404c-9af2-6f1f0ef1d709)
+
+
+
 ### Instructions to setup mysql on your local computer
 
 
